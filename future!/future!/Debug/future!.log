@@ -1,0 +1,5 @@
+﻿  love.cxx
+d:\momo'sfile\c++\love-past-and-future-v3.0\future!\future!\love.hxx(51): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\momo'sfile\c++\love-past-and-future-v3.0\future!\future!\love.hxx(81): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\momo'sfile\c++\love-past-and-future-v3.0\future!\future!\love.hxx(186): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  future!.vcxproj -> D:\momo'sfile\c++\love-past-and-future-v3.0\future!\Debug\future!.exe

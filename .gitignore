@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+*.ui
+love-past-and-future
 
 # Compiled Object files
 *.slo
@@ -27,6 +29,16 @@
 *.lib
 
 # Executables
-*.exe
-*.out
+
 *.app
+#
+*.pro
+*.sln
+.vs
+*.ilk
+*.pdb
+*.vcxproj
+*.filters
+*.idb
+*.user
+Lib.h
